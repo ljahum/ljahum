@@ -1,8 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljahum&show_icons=true&include_all_commits=true&theme=tokyonight)  
 
-![Kagurazakayashi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljahum&layout=compact&theme=tokyonight)
 
 <!--
 **ljahum/ljahum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
