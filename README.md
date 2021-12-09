@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-![](https://unv-shield.librian.net/api/unv_shield?repo=你的名字/repo的名字)
+![](https://unv-shield.librian.net/api/unv_shield?repo=ljahum/ljahum)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljahum&show_icons=true&include_all_commits=true&theme=tokyonight)  
 
