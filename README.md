@@ -1,6 +1,8 @@
 # Hi there 👋
 
 
+<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/00.webp' width='410px'>
+
 ![](https://unv-shield.librian.net/api/unv_shield?repo=ljahum/ljahum)
 ![](https://unv-shield.librian.net/api/unv_shield?url=https://gitee.com/ljahum/images/raw/master/img/20211209154738.png&txt=%E6%9C%AF%E6%9C%AF%E4%BA%BA:%E6%98%AF!)
 ![](https://unv-shield.librian.net/api/unv_shield?url=https://gitee.com/ljahum/images/raw/master/img/20211209155213.png&txt=%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F:%E7%83%82)
