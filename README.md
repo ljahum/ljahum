@@ -7,7 +7,7 @@
 ![](https://unv-shield.librian.net/api/unv_shield?url=https://gitee.com/ljahum/images/raw/master/img/20211209154738.png&txt=%E6%9C%AF%E6%9C%AF%E4%BA%BA:%E6%98%AF!)
 ![](https://unv-shield.librian.net/api/unv_shield?url=https://gitee.com/ljahum/images/raw/master/img/20211209155213.png&txt=%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F:%E7%83%82)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljahum&show_icons=true&include_all_commits=true&theme=tokyonight)  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljahum&show_icons=true&include_all_commits=true&theme=algolia)  
 
 
 <!--
