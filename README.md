@@ -2,6 +2,8 @@
 
 
 ![](https://unv-shield.librian.net/api/unv_shield?repo=ljahum/ljahum)
+![](https://unv-shield.librian.net/api/unv_shield?url=https://gitee.com/ljahum/images/raw/master/img/20211209154738.png&txt=%E6%9C%AF%E6%9C%AF%E4%BA%BA:%E6%98%AF!)
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljahum&show_icons=true&include_all_commits=true&theme=tokyonight)  
 
