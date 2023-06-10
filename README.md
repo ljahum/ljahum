@@ -11,7 +11,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljahum&show_icons=true&include_all_commits=true&theme=algolia)  
 
-
+[Notion📒](https://www.notion.so/ljahum/Bass-Ment-073326638a86449c9a06d6467fed470f)
 <!--
 **ljahum/ljahum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
