@@ -11,7 +11,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljahum&show_icons=true&include_all_commits=true&theme=algolia)  
 
-<div align=center> ![All things suck , Only rack n rock](https://raw.githubusercontent.com/ljahum/images/main/e7aba1258cb47eb6eaecd6ff1f1a49bf.jpg)
+<div align=center> ![All things suck , Only rack n rock](https://raw.githubusercontent.com/ljahum/images/main/e7aba1258cb47eb6eaecd6ff1f1a49bf.jpg)</div>  
 
 <div align=center>All things suck , Only rack n rock
 
