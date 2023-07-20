@@ -11,6 +11,8 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljahum&show_icons=true&include_all_commits=true&theme=algolia)  
 
+![All things suck , Only rack n rock](https://raw.githubusercontent.com/ljahum/images/main/e7aba1258cb47eb6eaecd6ff1f1a49bf.jpg)
+
 <!--
 **ljahum/ljahum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
