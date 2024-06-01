@@ -4,7 +4,7 @@
 
 
 
-![:name](https://count.getloli.com/get/@:ljahum)
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljahum&show_icons=true&include_all_commits=true&theme=algolia)  
 
