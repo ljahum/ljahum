@@ -1,10 +1,8 @@
-# ljahum-world-no.1🍔🍔
+# ljahum 
 
+> love you all guys~~
 
-
-
-
-
+Focus on Android && Binary
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljahum&show_icons=true&include_all_commits=true&theme=algolia)  
 
