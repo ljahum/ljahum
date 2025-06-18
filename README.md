@@ -2,7 +2,7 @@
 
 > love you all guys~~
 
-Focus on Android && Binary
+Focus on Android/IOS , Crypto
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljahum&show_icons=true&include_all_commits=true&theme=algolia)  
 
